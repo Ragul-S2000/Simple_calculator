@@ -1,0 +1,90 @@
+@media  screen and (min-width:1000px) {
+    .container{
+        height:fit-content;
+    }
+    #doublezero{
+        width: 6vw;
+    }
+    #calculator{
+        width: 15vw;
+
+    }
+    .row{
+        margin:50vh;
+    }
+ 
+    #result{
+        width: 17vw;
+        
+    }
+
+}
+
+@media only screen and (min-width:1400px) {
+    .container {
+        height: fit-content;
+    }
+
+    #doublezero {
+        width: 50vw !important;
+    }
+    #calculator{
+        width: 30vw !important;
+    }
+
+    #result {
+        width:27vw !important;
+    }
+}
+@media   screen and (min-width:720px) {
+    .container {
+        height: fit-content;
+    }
+
+    #doublezero {
+        width: 9vw !important;
+    }
+
+    #calculator {
+        width:30vw !important;
+    }
+
+    #result{
+        width: 25vw !important;
+    }
+}
+@media screen and (min-width:320px) {
+    .container {
+        height: fit-content;
+    }
+
+    #doublezero {
+        width: 50vw;
+    }
+    #calculator{
+        width: 85vw;
+    }
+  
+
+    #result {
+        width:50 vw;
+    }
+}
+@media screen and (min-width:2500px) {
+    .container {
+        height: fit-content;
+    }
+
+    #doublezero {
+        width: 6vw !important;
+    }
+
+    #calculator {
+        width: 15vw !important;
+    }
+
+
+    #result {
+        width: 13vw !important;
+    }
+}
